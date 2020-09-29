@@ -9,7 +9,6 @@ using Microsoft.Extensions.Logging;
 
 namespace Recipe.Web.Server
 {
-    //Testing Change - Ryan
     public class Program
     {
         public static void Main(string[] args)
